@@ -14,8 +14,7 @@ Chat needs to be in 24 Hour time Format.
     Various plotting
     
     
-![img](https://github.com/Siddharthbadal/Olympics-Data-Analysis-web-app/main/images/whatsapp.png)
-
+![img](https://raw.githubusercontent.com/Siddharthbadal/Olympics-Data-Analysis-web-app/main/images/whatsapp.png)
 
 ### Module Used: 
     streamlit
